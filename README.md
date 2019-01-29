@@ -9,7 +9,7 @@ These are for Openshift Enterprise version 3.1.0 and aren't guaranteed to work o
 git clone this repo: 
 ```
 cd /home/demo
-git clone https://github.com/ffirg/openshift.git
+git clone https://github.com/franitel/openshift.git
 cd openshift/bin
 ```
 
@@ -73,7 +73,7 @@ Demonstrates how to do rolling A-B or Canary style deployment. Bring application
 In the Terminal (as the demo user):
 ```
 $ cd /home/demo
-$ git clone https://github.com/ffirg/openshift.git
+$ git clone https://github.com/franitel/openshift.git
 $ cd openshift/bin
 $ ./create-ose3-app-ab-deployment.sh
 ```
